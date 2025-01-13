@@ -54,7 +54,7 @@ Zephyrone: “Send us everything you have. We’ll do the rest.”<br>
 ## MISSION
 You have been selected by the DC540 Angels of Death to join this mission. With Zephyrone and Elbee providing their expertise from George Mason University, your task is to dismantle SilentPhantom and save global communications.<br>
 
-Your task is to reverse engineer the SilentPhantom firmware (SilentPhantom_Firmware.uf2) and identify its weaknesses. Using tools like Netcat, connect to the compromised satellite server, decode the encrypted broadcasts, and send the RECOVER signal to neutralize SilentPhantom’s control.<br>
+Your task is to reverse engineer the SilentPhantom firmware (ТихийПризрак.uf2) and identify its weaknesses. Using tools like Netcat, connect to the compromised satellite server, decode the encrypted broadcasts, and send the RECOVER signal to neutralize SilentPhantom’s control.<br>
 
 Extract the FLAG hidden within the communication protocol. This FLAG will confirm the successful destruction of SilentPhantom and the restoration of global systems.<br>
 
