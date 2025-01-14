@@ -23,7 +23,7 @@ DC540 hacking challenge 0x00008 [UNKNOWN CTF].
 
 # BRIEF
 
-Two years have passed since the last update at the Khanty-Mansiysk Dark Eyes facility. The world's onslaught of AgenticAI has been completely disrputive . The glimmer of hope that ANGELS OF DEATH once provided has seemed to fade for many. Was this a false hope? Are the Dark Eyes to be truly stopped, or have the ANGELS OF DEATH faded away into the darkness?<br>
+Two years have passed since the last update at the Khanty-Mansiysk Dark Eyes facility. The world's onslaught of AgenticAI has been completely disrputive. The glimmer of hope that ANGELS OF DEATH once provided has seemed to fade for many. Was this a false hope? Are the Dark Eyes to be truly stopped, or have the ANGELS OF DEATH faded away into the darkness?<br>
 
 The DC540 Angels of Death had been monitoring the Dark Eyes’ activities closely. After cracking the Жнец binary, a hidden directive was discovered—SilentPhantom. This wasn’t just a fallback plan. SilentPhantom was an elite unit of the Dark Eyes, controlling rogue satellites to spread encrypted chaos where weather prediction systems had failed, air traffic controllers struggled to keep planes in the air and oceanic buoys went offline, leaving maritime navigation vulnerable.<br>
 
